@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ProcessAdmin 19.08": {
+      "commandName": "Project",
+      "commandLineArgs": "/background"
+    }
+  }
+}
